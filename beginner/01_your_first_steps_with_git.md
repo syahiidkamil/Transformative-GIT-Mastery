@@ -107,7 +107,7 @@ This is called "staging" your changes—think of it as putting items in a box th
 Now that you've selected the changes you want to save, it's time to take the snapshot:
 
 ```bash
-git commit -m "Add homepage with navigation menu"
+git commit -m "Add personal identity and motivations"
 ```
 
 When you try this for the first time, Git might stop you with a message:
@@ -129,7 +129,7 @@ git config --global user.email "your.email@example.com"
 Once that's done, try your commit again:
 
 ```bash
-git commit -m "Add homepage with navigation menu"
+git commit -m "Add personal identity and motivations"
 ```
 
 Congratulations! You've just saved your first snapshot with Git. This snapshot is permanently stored in your repository's history, and you can always go back to it.
